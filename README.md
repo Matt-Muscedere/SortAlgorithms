@@ -1,4 +1,4 @@
-<h1>SortAlgorithms 🏫</h1>
+<h1>SortAlgorithms </h1>
 
 Project consists of developing Merge Sort, Quick Sort, and Heap Sort algorithms.
 <br />
